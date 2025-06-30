@@ -10,7 +10,6 @@ The **AWS Bedrock Token Generator for Java** is a lightweight utility library th
 
 - ✅ **Simple API**: Single method to generate bearer tokens
 - ✅ **Secure**: Uses AWS SigV4 signing with 12-hour token expiration
-- ✅ **Multi-region support**: Works with any AWS region where Bedrock is available
 - ✅ **AWS SDK Integration**: Seamlessly works with AWS SDK credential providers
 - ✅ **Lightweight**: Minimal dependencies, focused functionality
 - ✅ **Well-tested**: Comprehensive unit tests with multiple scenarios
@@ -205,7 +204,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 2. **Clone**: `git clone https://github.com/aws/aws-bedrock-token-generator-java.git`
 3. **Build**: `mvn clean compile`
 4. **Test**: `mvn test`
-5. **Package**: `mvn package`
+****5. **Package**: `mvn package`****
 
 ## Support
 

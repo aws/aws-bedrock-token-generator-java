@@ -6,7 +6,7 @@
 
     <groupId>software.amazon.bedrock</groupId>
     <artifactId>aws-bedrock-token-generator</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
 
     <name>AWS Bedrock Token Generator</name>
